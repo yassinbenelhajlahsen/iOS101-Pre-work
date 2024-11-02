@@ -15,10 +15,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-
 <div>
     <a href="https://www.loom.com/share/8ca477b582eb4f08be2f002ac0761bb2">
-      <p>Prework - IOS101 | Intro to iOS Development | CodePath Courses - 2 November 2024 - Watch Video</p>
+      <p>Prework - IOS101 | Intro to iOS Development | CodePath Courses - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/8ca477b582eb4f08be2f002ac0761bb2">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8ca477b582eb4f08be2f002ac0761bb2-e8e2cf2a3e1b8a70-full-play.gif">
@@ -37,9 +36,9 @@ An app I would like to improve is my school's student app, and make it more UI a
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The connection wasn't working with the button and ViewController. I found out I created my file incorrectly and redid it. I also needed to delete old connections correctly.
+Learned why GitHub is important and how to use it.
 
-The connection wasn't working with the button and ViewController. I found out I created my file incorrectly and redid it.
 
 ## License
 
