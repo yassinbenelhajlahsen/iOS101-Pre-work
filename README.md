@@ -4,7 +4,7 @@ Submitted by: Yassin Benelhajlahsen
 
 Color Changer is an app that displays my information and with a press of a button changes the background color 
 
-Time spent: 1 hour spent in total
+Time spent: 2 hours
 
 ## Required Features
 
