@@ -15,6 +15,17 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+
+<div>
+    <a href="https://www.loom.com/share/8ca477b582eb4f08be2f002ac0761bb2">
+      <p>Prework - IOS101 | Intro to iOS Development | CodePath Courses - 2 November 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/8ca477b582eb4f08be2f002ac0761bb2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8ca477b582eb4f08be2f002ac0761bb2-e8e2cf2a3e1b8a70-full-play.gif">
+    </a>
+  </div>
+
+
 ## App Brainstorming 
 
 A button that allows the user to choose their own color
